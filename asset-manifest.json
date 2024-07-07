@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-mailbox/static/css/main.70547f74.css",
+    "main.js": "/react-mailbox/static/js/main.7086ac15.js",
+    "static/js/453.2c44f11f.chunk.js": "/react-mailbox/static/js/453.2c44f11f.chunk.js",
+    "static/media/settings.svg": "/react-mailbox/static/media/settings.87a0ce47136866bd195f847d51f1a82d.svg",
+    "static/media/calculator.svg": "/react-mailbox/static/media/calculator.fb2ffb82e51aa32ade70c3a0382deb28.svg",
+    "static/media/ellipsis-vertical.svg": "/react-mailbox/static/media/ellipsis-vertical.3a2ff3b75a9c8d4cbcb452955ba7bd51.svg",
+    "index.html": "/react-mailbox/index.html",
+    "static/media/emoji.svg": "/react-mailbox/static/media/emoji.1de46bc254bff4c5b1a32593053111dd.svg",
+    "static/media/forward.svg": "/react-mailbox/static/media/forward.1de46bc254bff4c5b1a32593053111dd.svg",
+    "static/media/archive-x.svg": "/react-mailbox/static/media/archive-x.dd43e8c161271785c549c99b2672ab5d.svg",
+    "static/media/profile.svg": "/react-mailbox/static/media/profile.9a0a35e7f31e39c25487699f0d6946d4.svg",
+    "static/media/archive.svg": "/react-mailbox/static/media/archive.b7f8cdbd1379e5407c88511c007f48db.svg",
+    "static/media/clock.svg": "/react-mailbox/static/media/clock.bc4b85c055073ebdad3cbd220471537c.svg",
+    "static/media/trash.svg": "/react-mailbox/static/media/trash.16599f63ab27b93b77f085baaa5320fd.svg",
+    "static/media/calender.svg": "/react-mailbox/static/media/calender.310908c6d2cc5ac730ff09126f329116.svg",
+    "static/media/reply-all.svg": "/react-mailbox/static/media/reply-all.4c69cae6f936cfb1ea8ee3ffc0cd0ca7.svg",
+    "static/media/reply.svg": "/react-mailbox/static/media/reply.4c69cae6f936cfb1ea8ee3ffc0cd0ca7.svg",
+    "static/media/search.svg": "/react-mailbox/static/media/search.551419ebf6b8e3f71f7b577a0ce233fa.svg",
+    "static/media/billing.svg": "/react-mailbox/static/media/billing.600e90eab42fc88f67a558973db674f0.svg",
+    "main.70547f74.css.map": "/react-mailbox/static/css/main.70547f74.css.map",
+    "main.7086ac15.js.map": "/react-mailbox/static/js/main.7086ac15.js.map",
+    "453.2c44f11f.chunk.js.map": "/react-mailbox/static/js/453.2c44f11f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70547f74.css",
+    "static/js/main.7086ac15.js"
+  ]
+}
