@@ -1,5 +1,3 @@
-// import "../../App.css";
-// import "../../dark-theme.css"
 import archive from "../../assets/archive.svg";
 import archivex from "../../assets/archive-x.svg";
 import trash from "../../assets/trash.svg";
@@ -45,22 +43,22 @@ function Header({onThemeToggle}) {
         <div className="align-items-center d-flex justify-content-between px-3 py-2 header-section-right">
           <div className="d-flex">
             <div className="icons-left">
-              <img src={archive} className="px-3"></img>
-              <img src={archivex} className="px-3"></img>
-              <img src={trash} className="px-3"></img>
+              <img src={archive} alt="archive" className="px-3"></img>
+              <img src={archivex} alt="archivex"  className="px-3"></img>
+              <img src={trash} alt="trash"  className="px-3"></img>
             </div>
             <div className="py-2">
-              <img src={clock} className="px-3"></img>
+              <img src={clock} alt="clock"  className="px-3"></img>
             </div>
           </div>
           <div className="d-flex">
             <div className="icons-left">
-              <img src={reply} className="px-3"></img>
-              <img src={replyall} className="px-3"></img>
-              <img src={forward} className="px-3"></img>
+              <img src={reply} alt="reply"  className="px-3"></img>
+              <img src={replyall} alt="replyall"  className="px-3"></img>
+              <img src={forward} alt="forward"  className="px-3"></img>
             </div>
             <div className="py-2">
-              <img src={options} className="px-3"></img>
+              <img src={options} alt="options"  className="px-3"></img>
             </div>
           </div>
         </div>

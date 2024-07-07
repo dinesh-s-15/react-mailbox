@@ -1,5 +1,3 @@
-// import '../../App.css';
-// import "../../dark-theme.css"
 function EmailDetail({ selectedMail }) {
 
     const defaultMail = {

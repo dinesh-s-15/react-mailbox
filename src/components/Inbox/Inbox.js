@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import "../../App.css";
-// import "../../dark-theme.css"
 import EmailDetail from "../EmailDetail/EmailDetail";
 import EmailList from "../EmailList/EmailList";
 import Header from "../Header/Header";
