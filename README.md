@@ -8,6 +8,8 @@ Check out the live demo of the application here: [React Mailbox Demo](https://ma
 
 Before getting started, ensure you have Node.js installed on your machine.
 
+Node version used in the test environment is **v14.21.3**
+
 ## Install dependencies
 
 Install project dependencies using npm:
